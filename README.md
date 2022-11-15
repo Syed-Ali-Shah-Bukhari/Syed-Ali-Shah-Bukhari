@@ -12,7 +12,7 @@
 - 😄 Pronouns: Ali
 
 - 📫 How to reach me 
-      1- Email -> alishahbukhari63@gmail.com
+      1- Email -> alishahbukhari63@gmail.com \n
       2- Upwork URl -> https://www.upwork.com/fl/~01008df699ad107212
 
 <!--
