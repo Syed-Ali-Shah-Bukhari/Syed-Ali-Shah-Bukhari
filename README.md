@@ -12,8 +12,8 @@
 - 😄 Pronouns: Ali
 
 - 📫 How to reach me 
-      1- Email -> alishahbukhari63@gmail.com \n
-      2- Upwork URl -> https://www.upwork.com/fl/~01008df699ad107212
+     - Email -> alishahbukhari63@gmail.com
+     - Upwork URl -> https://www.upwork.com/fl/~01008df699ad107212
 
 <!--
 **Syed-Ali-Shah-Bukhari/Syed-Ali-Shah-Bukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
